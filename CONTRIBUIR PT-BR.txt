@@ -1,0 +1,12 @@
+#Como Contribuir
+
+Ficaríamos felizes em receber seus patches e contribuições para este projeto. Há apenas algumas pequenas diretrizes que você precisa seguir.
+
+Preparando um pull request para revisão
+Certifique-se de que sua alteração esteja formatada corretamente executando:
+
+./gradlew spotlessApply
+Corrija quaisquer falhas antes de solicitar uma revisão.
+
+Revisões de Código
+Todas as contribuições, incluindo aquelas feitas por membros do projeto, requerem revisão. Usamos pull requests do GitHub para esse propósito. Consulte a Ajuda do GitHub para mais informações sobre como usar pull requests.

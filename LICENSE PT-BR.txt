@@ -1,0 +1,205 @@
+# Código de Conduta do Pacto de Colaboradores
+
+## Nosso Compromisso
+
+Nós, como membros, colaboradores e líderes, comprometemo-nos a tornar a participação em nossa
+comunidade uma experiência livre de assédio para todos, independentemente da idade, tamanho do corpo,
+deficiência visível ou invisível, etnia, características sexuais, identidade e expressão de gênero,
+nível de experiência, educação, status socioeconômico,
+nacionalidade, aparência pessoal, raça, religião ou identidade sexual
+e orientação.
+
+Nós nos comprometemos a agir e interagir de maneiras que contribuam para uma comunidade aberta, acolhedora,
+diversificada, inclusiva e saudável.
+
+## Nossos Padrões
+
+Exemplos de comportamentos que contribuem para um ambiente positivo em nossa
+comunidade incluem:
+
+* Demonstrando empatia e gentileza em relação a outras pessoas
+* Respeitando opiniões, pontos de vista e experiências diferentes
+* Dando e aceitando construtivamente feedback
+* Assumindo a responsabilidade e pedindo desculpas às pessoas afetadas por nossos erros,
+  e aprendendo com a experiência
+* Concentrando-se no que é melhor não apenas para nós como indivíduos, mas para a
+  comunidade como um todo
+
+Exemplos de comportamento inaceitável incluem:
+
+* O uso de linguagem ou imagens sexualizadas e atenção sexual ou
+  avanços de qualquer tipo
+* Provocação, comentários insultuosos ou depreciativos e ataques pessoais ou políticos
+* Assédio público ou privado
+* Publicar informações privadas de outras pessoas, como endereço físico ou de e-mail,
+  sem a permissão explícita delas
+* Outras condutas que poderiam ser razoavelmente consideradas inadequadas em um
+  ambiente profissional
+
+## Responsabilidades de Execução
+
+Os líderes da comunidade são responsáveis por esclarecer e fazer cumprir nossos padrões de
+comportamento aceitável e tomar medidas corretivas apropriadas e justas em
+resposta a qualquer comportamento que considerem inadequado, ameaçador, ofensivo
+ou prejudicial.
+
+Os líderes da comunidade têm o direito e a responsabilidade de remover, editar ou rejeitar
+comentários, commits, código, edições de wiki, problemas e outras contribuições que não estejam
+alinhadas com este Código de Conduta, e comunicarão as razões das decisões de moderação
+quando apropriado.
+
+## Abrangência
+
+Este Código de Conduta se aplica a todos os espaços da comunidade e também se aplica quando
+um indivíduo está oficialmente representando a comunidade em espaços públicos.
+Exemplos de representação de nossa comunidade incluem o uso de um endereço de e-mail oficial,
+postagem por meio de uma conta oficial de mídia social ou atuação como um
+representante designado em um evento online ou offline.
+
+## Execução
+
+Instâncias de comportamento abusivo, assediador ou de outra forma inaceitável podem ser
+denunciadas aos líderes da comunidade responsáveis pela execução em
+skydoves2@gmail.com.
+Todas as reclamações serão revisadas e investigadas de maneira rápida e justa.
+
+Todos os líderes da comunidade são obrigados a respeitar a privacidade e a segurança do
+denunciante de qualquer incidente.
+
+## Diretrizes de Execução
+
+Os líderes da comunidade seguirão estas Diretrizes de Impacto na Comunidade ao determinar
+as consequências para qualquer ação que eles considerem violação deste Código de Conduta:
+
+### 1. Correção
+
+**Impacto na Comunidade**: Uso de linguagem inadequada ou outro comportamento considerado
+não profissional ou indesejado na comunidade.
+
+**Consequência**: Um aviso privado e por escrito dos líderes da comunidade, fornecendo
+clareza sobre a natureza da violação e uma explicação do motivo pelo qual o
+comportamento foi inadequado. Um pedido de desculpas público pode ser solicitado.
+
+### 2. Advertência
+
+**Impacto na Comunidade**: Uma violação por meio de um único incidente ou série
+de ações.
+
+**Consequência**: Uma advertência com consequências para comportamento contínuo. Nenhuma
+interação com as pessoas envolvidas, incluindo interação não solicitada com
+aqueles que fazem cumprir o Código de Conduta, por um período especificado de tempo.
+Isso inclui evitar interações em espaços da comunidade, bem como canais externos
+como mídias sociais. Violar esses termos pode levar a uma proibição temporária ou
+permanente.
+
+### 3. Proibição Temporária
+
+**Impacto na Comunidade**: Uma violação grave das normas da comunidade, incluindo
+comportamento inadequado contínuo.
+
+**Consequência**: Uma proibição temporária de qualquer tipo de interação ou comunicação pública
+com a comunidade por um período especificado de tempo. Nenhuma interação pública ou
+privada com as pessoas envolvidas, incluindo interação não solicitada com aqueles
+que fazem cumprir o Código de Conduta, é permitida durante este período.
+Violar esses termos pode levar a uma proibição permanente.
+
+### 4. Proibição Permanente
+
+**Impacto na Comunidade**: Demonstração de um padrão de violação das normas da comunidade,
+incluindo comportamento inadequado contínuo, assédio a um indivíduo ou agressão ou desprezo
+por classes de indivíduos.
+
+**Consequência**: Uma proibição permanente de qualquer tipo de interação pública dentro
+da comunidade.
+
+## Atribuição
+
+Este Código de Conduta é adaptado do [Contributor Covenant][homepage],
+versão 2.0, disponível em
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+
+As Diretrizes de Impacto na Comunidade foram inspiradas pela [escada de execução do código de conduta da Mozilla](https://github.com/mozilla/diversity).
+
+[homepage]: https://www.contributor-covenant.org
+
+Para respostas a perguntas comuns sobre este código de conduta, consulte o FAQ em
+https://www.contributor-covenant.org/faq. Traduções estão disponíveis em
+https://www.contributor-covenant.org/translations.
+
+# Licença Apache
+Versão 2.0, janeiro de 2004
+http://www.apache.org/licenses/
+
+TERMOS E CONDIÇÕES PARA USO, REPRODUÇÃO E DISTRIBUIÇÃO
+
+1. Definições.
+
+   "Licença" significa os termos e condições para uso, reprodução e distribuição, conforme definido nas Seções 1 a 9 deste documento.
+
+   "Licenciante" significa o proprietário do direito autoral ou entidade autorizada pelo proprietário do direito autoral a conceder a Licença.
+
+   "Entidade Legal" significa a união da entidade atuante e todas as outras entidades que controlam, são controladas por ou estão sob controle comum com essa entidade. Para fins desta definição, "controle" significa (i) o poder, direto ou indireto, de causar a direção ou gerenciamento de tal entidade, seja por contrato ou de outra forma, ou (ii) a propriedade de cinquenta por cento (50%) ou mais das ações em circulação, ou (iii) a propriedade benéfica de tal entidade.
+
+   "Você" (ou "Seu") significa um indivíduo ou Entidade Legal exercendo as permissões concedidas por esta Licença.
+
+   "Forma Fonte" significa a forma preferida para fazer modificações, incluindo, mas não se limitando a, código-fonte de software, documentação fonte e arquivos de configuração.
+
+   "Forma de Objeto" significa qualquer forma resultante de transformação mecânica ou tradução de uma Forma Fonte, incluindo, mas não se limitando a, código objeto compilado, documentação gerada e conversões para outros tipos de mídia.
+
+   "Obra" significa o trabalho autoral, seja em Forma Fonte ou Forma de Objeto, disponibilizado sob a Licença, conforme indicado por um aviso de direitos autorais incluído ou anexado à obra (um exemplo é fornecido no Apêndice abaixo).
+
+   "Obras Derivadas" significa qualquer trabalho, seja em Forma Fonte ou Forma de Objeto, que seja baseado (ou derivado) da Obra e para o qual as revisões editoriais, anotações, elaborações ou outras modificações representam, como um todo, um trabalho autoral original. Para fins desta Licença, Obras Derivadas não incluirão trabalhos que permaneçam separáveis da Obra, ou que simplesmente vinculem (ou vinculem pelo nome) às interfaces da Obra e Obras Derivadas dela.
+
+   "Contribuição" significa qualquer trabalho autoral, incluindo a versão original da Obra e quaisquer modificações ou acréscimos a essa Obra ou Obras Derivadas dela, que seja intencionalmente submetido ao Licenciante para inclusão na Obra pelo proprietário do direito autoral ou por um indivíduo ou Entidade Legal autorizada a submeter em nome do proprietário do direito autoral. Para fins desta definição, "submetido" significa qualquer forma de comunicação eletrônica, verbal ou escrita enviada ao Licenciante ou a seus representantes, incluindo, mas não se limitando a, comunicação em listas de discussão eletrônicas, sistemas de controle de código fonte e sistemas de acompanhamento de problemas gerenciados pelo Licenciante com o propósito de discutir e melhorar a Obra, mas excluindo comunicações que sejam marcadas de maneira conspicuamente ou designadas por escrito pelo proprietário do direito autoral como "Não é uma Contribuição".
+
+   "Contribuinte" significa o Licenciante e qualquer indivíduo ou Entidade Legal em nome de quem uma Contribuição tenha sido recebida pelo Licenciante e subsequentemente incorporada na Obra.
+
+2. Concessão de Licença de Direito Autoral. Sujeito aos termos e condições desta Licença, cada Contribuinte concede a Você uma licença de direito autoral perpétua, mundial, não exclusiva, sem custo, isenta de royalties e irrevogável para reproduzir, preparar Obras Derivadas, exibir publicamente, executar publicamente, sublicenciar e distribuir a Obra e tais Obras Derivadas em Forma Fonte ou Forma de Objeto.
+
+3. Concessão de Licença de Patente. Sujeito aos termos e condições desta Licença, cada Contribuinte concede a Você uma licença de patente perpétua, mundial, não exclusiva, sem custo, isenta de royalties e irrevogável (exceto conforme declarado nesta seção) para fazer, fazer com que sejam feitas, usar, oferecer para venda, vender, importar e transferir de outra forma a Obra, onde essa licença se aplica apenas a reivindicações de patentes licenciáveis por tal Contribuinte que sejam necessariamente infringidas apenas por suas Contribuições sozinhas ou pela combinação de suas Contribuições com a Obra à qual tais Contribuições foram submetidas. Se Você iniciar uma ação judicial por infração de patente contra qualquer entidade (incluindo uma reclamação cruzada ou reconvenção em um processo judicial) alegando que a Obra ou uma Contribuição incorporada na Obra constitui infração direta ou contributiva de patente, então quaisquer licenças de patente concedidas a Você sob esta Licença para essa Obra serão rescindidas na data em que tal ação judicial for proposta.
+
+4. Redistribuição. Você pode reproduzir e distribuir cópias da Obra ou Obras Derivadas dela em qualquer meio, com ou sem modificações, e em Forma Fonte ou Forma de Objeto, desde que Você cumpra as seguintes condições:
+
+   (a) Você
+
+ deve fornecer a qualquer outro destinatário da Obra ou Obras Derivadas uma cópia desta Licença; e
+
+   (b) Você deve fazer com que quaisquer arquivos modificados incluam avisos proeminentes indicando que Você modificou os arquivos; e
+
+   (c) Você deve reter, na Forma Fonte de quaisquer Obras Derivadas que Você distribuir, todos os avisos de direitos autorais, patentes, marcas registradas e atribuição da Forma Fonte da Obra, excluindo aqueles avisos que não dizem respeito a nenhuma parte das Obras Derivadas; e
+
+   (d) Se a Obra incluir um arquivo de texto "NOTICE" como parte de sua distribuição, então quaisquer Obras Derivadas que Você distribuir devem incluir uma cópia legível dos avisos de atribuição contidos dentro desse arquivo "NOTICE", excluindo aqueles avisos que não dizem respeito a nenhuma parte das Obras Derivadas, em pelo menos um dos seguintes lugares: dentro de um arquivo de texto "NOTICE" distribuído como parte das Obras Derivadas; dentro da Forma Fonte ou documentação, se fornecida junto com as Obras Derivadas; ou, em uma exibição gerada pelas Obras Derivadas, se e onde esses avisos de terceiros normalmente aparecem. O conteúdo do arquivo "NOTICE" é apenas para fins informativos e não modifica a Licença. Você pode adicionar seus próprios avisos de atribuição dentro das Obras Derivadas que Você distribuir, ao lado ou como um adendo ao texto "NOTICE" da Obra, desde que esses avisos de atribuição adicionais não possam ser interpretados como modificação da Licença.
+
+   Você pode adicionar sua própria declaração de direitos autorais às suas modificações e pode fornecer termos e condições de licença adicionais ou diferentes para uso, reprodução ou distribuição de suas modificações, ou para qualquer Obras Derivadas como um todo, desde que o uso, reprodução e distribuição da Obra por Você esteja em conformidade com as condições estabelecidas nesta Licença.
+
+5. Envio de Contribuições. A menos que Você declare explicitamente o contrário, qualquer Contribuição intencionalmente submetida por Você para inclusão na Obra pelo Licenciante estará sujeita aos termos e condições desta Licença, sem termos ou condições adicionais. Não obstante o acima exposto, nada aqui deve sobrepor-se ou modificar os termos de qualquer acordo de licença separado que Você possa ter celebrado com o Licenciante em relação a tais Contribuições.
+
+6. Marcas Registradas. Esta Licença não concede permissão para usar os nomes comerciais, marcas registradas, marcas de serviço ou nomes de produtos do Licenciante, exceto conforme necessário para uso razoável e comum na descrição da origem da Obra e na reprodução do conteúdo do arquivo "NOTICE".
+
+7. Isenção de Garantia. A menos que exigido pela lei aplicável ou acordado por escrito, o Licenciante fornece a Obra (e cada Contribuinte fornece suas Contribuições) com base "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, expressas ou implícitas, incluindo, mas não se limitando a, quaisquer garantias ou condições de TÍTULO, NÃO-VIOLAÇÃO, COMERCIALIZAÇÃO OU ADEQUAÇÃO A UMA FINALIDADE ESPECÍFICA. Você é o único responsável por determinar a adequação do uso ou redistribuição da Obra e assume quaisquer riscos associados ao exercício de permissões sob esta Licença.
+
+8. Limitação de Responsabilidade. Em nenhuma hipótese e sob nenhuma teoria legal, seja em ato ilícito (incluindo negligência), contrato ou de outra forma, a menos que exigido por lei aplicável (como atos deliberados e grosseiramente negligentes) ou acordado por escrito, qualquer Contribuinte será responsável perante Você por danos, incluindo danos diretos, indiretos, especiais, incidentais ou consequentes, de qualquer natureza decorrentes desta Licença ou do uso ou incapacidade de usar a Obra (incluindo, mas não se limitando a, danos por perda de boa vontade, interrupção de trabalho, falha ou mau funcionamento do computador ou quaisquer outros danos comerciais ou perdas), mesmo que tal Contribuinte tenha sido avisado da possibilidade de tais danos.
+
+9. Aceitação de Garantia ou Responsabilidade Adicional. Ao redistribuir a Obra ou Obras Derivadas dela, Você pode optar por oferecer e cobrar uma taxa pela aceitação de suporte, garantia, indenização ou outras obrigações de responsabilidade e/ou direitos consistentes com esta Licença. No entanto, ao aceitar tais obrigações, Você pode agir apenas em seu próprio nome e por sua própria responsabilidade, não em nome de qualquer outro Contribuinte, e somente se Você concordar em indenizar, defender e isentar cada Contribuinte de qualquer responsabilidade incorrida, ou reivindicações alegadas contra, tal Contribuinte por motivo de sua aceitação de qualquer garantia ou responsabilidade adicional.
+
+FIM DOS TERMOS E CONDIÇÕES
+
+APÊNDICE: Como aplicar a Licença Apache ao seu trabalho.
+
+Para aplicar a Licença Apache ao seu trabalho, anexe o seguinte aviso padrão, com os campos delimitados por colchetes "[]" substituídos por suas próprias informações de identificação. (Não inclua os colchetes!) O texto deve ser incluído na sintaxe de comentário apropriada para o formato do arquivo. Também recomendamos que um nome de arquivo ou de classe e uma descrição da finalidade sejam incluídos na mesma "página impressa" que o aviso de direitos autorais para facilitar a identificação dentro de arquivos de terceiros.
+
+Direitos autorais [aaaa] [
+
+nome do proprietário dos direitos autorais]
+
+Licenciado sob a Licença Apache, Versão 2.0 (a "Licença");
+Você não pode usar este arquivo exceto em conformidade com a Licença.
+Você pode obter uma cópia da Licença em
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+A menos que exigido por lei aplicável ou acordado por escrito, o software
+distribuído sob a Licença é distribuído "COMO ESTÁ",
+SEM GARANTIAS OU CONDIÇÕES DE QUALQUER TIPO, expressas ou implícitas.
+Consulte a Licença para os termos e condições específicos que regem
+as permissões e limitações sob a Licença.
